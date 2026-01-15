@@ -4,3 +4,5 @@ Werkzeug>=2.0.1
 numpy>=1.24.0
 pyinstaller>=6.3.0
 gunicorn
+imageio-ffmpeg
+ffmpeg-python
